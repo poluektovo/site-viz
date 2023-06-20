@@ -14,5 +14,3 @@
 - Пентестинг
 
 ![Фото](https://st4.depositphotos.com/3881799/27242/i/600/depositphotos_272424264-stock-photo-hacker-working-on-laptop-in.jpg)
-
-![Фото](/Users/pingvin/Downloads/1.jpg)
